@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   I'm R1kk4, a cybersecurity enthusiast and student. This blog is a place where I share my learning process and some writeups for CTF that i joined.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rikka-is.me/"
+url: "https://rikka-is.me"
 plugins:
   - jekyll-sitemap
 github:
